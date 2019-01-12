@@ -2,6 +2,9 @@
 ## Inject Contexts in Fields without cluttering your onCreate !
 
 ## Install
+
+[![](https://jitpack.io/v/thomhurst/android-contextinjector.svg)](https://jitpack.io/#thomhurst/android-contextinjector)
+
 Add Jitpack to your repositories in your `build.gradle` file
 
 ```gradle
